@@ -55,3 +55,11 @@ rebase показалась мне очень удобной командой. �
 + git pull
 + git clone
 + git fork
+
+## Еще команды git
+
++ git archive
++ git show
++ git grep
++ git blame
+
